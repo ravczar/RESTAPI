@@ -1,0 +1,5 @@
+2020-02-09 22:00:24.2276 INFO Here is info message from the controller.
+2020-02-09 22:00:24.3438 DEBUG Here is debug message from the controller.
+2020-02-09 22:00:24.3700 WARN Here is warn message from the controller.
+2020-02-09 22:00:24.3918 ERROR Here is error message from the controller.
+2020-02-09 22:00:38.0354 INFO Returned all owners from database.

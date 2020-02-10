@@ -1,0 +1,8 @@
+C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

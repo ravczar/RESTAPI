@@ -1,0 +1,17 @@
+2020-02-10 11:15:30.1626 INFO Returned all owners from database.
+2020-02-10 11:16:55.6167 INFO Returned all owners from database.
+2020-02-10 11:18:54.5885 INFO Returned all owners from database.
+2020-02-10 11:19:34.1207 INFO Returned all owners from database.
+2020-02-10 11:32:05.6126 INFO Returned all owners from database.
+2020-02-10 11:32:26.4491 INFO Returned all owners from database.
+2020-02-10 11:32:43.0938 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2020-02-10 11:33:46.9470 INFO Returned owner with id: 08d7ac97-3f76-4bb0-8c42-c63d5f947fb1
+2020-02-10 11:38:59.8085 INFO Returned all owners from database.
+2020-02-10 11:39:42.6600 INFO Returned all owners from database.
+2020-02-10 11:43:30.2730 INFO Returned all owners from database.
+2020-02-10 12:24:00.9281 INFO Returned all owners from database.
+2020-02-10 12:24:35.3630 INFO Returned all owners from database.
+2020-02-10 12:26:00.6523 INFO Returned all owners from database.
+2020-02-10 12:26:46.6206 INFO Returned all owners from database.
+2020-02-10 12:27:07.7897 INFO Returned all owners from database.
+2020-02-10 12:27:30.5528 INFO Returned all owners from database.

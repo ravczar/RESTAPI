@@ -1,0 +1,10 @@
+2020-02-08 15:07:39.7849 INFO Returned all owners from database.
+2020-02-08 15:07:51.2557 INFO Returned all owners from database.
+2020-02-08 15:07:53.3119 INFO Returned all owners from database.
+2020-02-08 15:07:53.9199 INFO Returned all owners from database.
+2020-02-08 15:14:57.2247 INFO Returned owner with details for id: 08d7ac97-3f76-4bb0-8c42-c63d5f947fb1
+2020-02-08 15:37:34.6459 INFO Here is info message from the controller.
+2020-02-08 15:37:34.6459 DEBUG Here is debug message from the controller.
+2020-02-08 15:37:34.6658 WARN Here is warn message from the controller.
+2020-02-08 15:37:34.6658 ERROR Here is error message from the controller.
+2020-02-08 15:38:14.9292 INFO Returned all owners from database.
