@@ -16,20 +16,20 @@ namespace Repository
         {
         }
 
-        public async Task<IEnumerable<Owner>> GetAllOwners()
+        public async Task<IEnumerable<Owner>> GetAllOwnersAsync()
         {
             return await FindAll()
                 .OrderBy(ow => ow.Name)
                 .ToListAsync();
         }
 
-        public async Task<Owner> GetOwnerById(Guid ownerId)
+        public async Task<Owner> GetOwnerByIdAsync(Guid ownerId)
         {
             return await FindByCondition(owner => owner.Id.Equals(ownerId))
                     .FirstOrDefaultAsync();
         }
 
-        public async Task<Owner> GetOwnerWithDetails(Guid ownerId)
+        public async Task<Owner> GetOwnerWithDetailsAsync(Guid ownerId)
         {
             return await FindByCondition(owner => owner.Id.Equals(ownerId))
                 .Include(ac => ac.Accounts)

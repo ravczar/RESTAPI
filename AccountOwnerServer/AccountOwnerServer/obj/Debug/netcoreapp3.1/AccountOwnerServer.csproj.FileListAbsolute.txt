@@ -122,3 +122,6 @@ C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\AccountOwnerServer\bin\
 C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.csprojAssemblyReference.cache
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.dll
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.pdb

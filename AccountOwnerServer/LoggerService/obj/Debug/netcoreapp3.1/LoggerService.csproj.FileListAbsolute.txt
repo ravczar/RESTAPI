@@ -11,3 +11,16 @@ C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\LoggerService\obj\Debug
 C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
 C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
 C:\Users\ravcz\Desktop\API DOTNET\API\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
