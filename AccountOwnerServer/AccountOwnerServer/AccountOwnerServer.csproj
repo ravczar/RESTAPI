@@ -27,6 +27,7 @@
   <ItemGroup>
     <Folder Include="logs\" />
     <Folder Include="Database Files\" />
+    <Folder Include="Postman Collection\" />
   </ItemGroup>
 
 
