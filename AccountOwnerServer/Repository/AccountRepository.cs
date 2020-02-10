@@ -1,9 +1,11 @@
 ﻿using Contracts;
 using Entities;
 using Entities.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace Repository
 {
@@ -14,17 +16,17 @@ namespace Repository
         {
         }
 
-        public IEnumerable<Account> GetAllAccounts()
+        public async Task<IEnumerable<Account>> GetAllAccountsAsync()
         {
-            return FindAll()
+            return await FindAll()
                 .OrderBy(ow => ow.AccountType)
-                .ToList();
+                .ToListAsync();
         }
 
-        public Account GetAccountById(Guid accountId)
+        public async Task<Account> GetAccountByIdAsync(Guid accountId)
         {
-            return FindByCondition(account => account.Id.Equals(accountId))
-                    .FirstOrDefault();
+            return await FindByCondition(account => account.Id.Equals(accountId))
+                    .FirstOrDefaultAsync();
         }
 
         public void CreateAccount(Account account)

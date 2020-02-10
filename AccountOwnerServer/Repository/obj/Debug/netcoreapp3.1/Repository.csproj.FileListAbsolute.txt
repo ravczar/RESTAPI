@@ -16,3 +16,11 @@ C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\obj\De
 C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
 C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.dll
 C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
