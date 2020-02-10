@@ -7001,11 +7001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
+      "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
       "projectName": "AccountOwnerServer",
-      "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
+      "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
       "packagesPath": "C:\\Users\\ravcz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\AccountOwnerServer\\obj\\",
+      "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\AccountOwnerServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ravcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7021,11 +7021,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\LoggerService.csproj"
+            "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\LoggerService.csproj"
             },
-            "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\Repository.csproj"
+            "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\Repository.csproj"
             }
           }
         }

@@ -674,11 +674,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\Repository.csproj",
+      "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\ravcz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\obj\\",
+      "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ravcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -694,11 +694,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj"
+            "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj"
             },
-            "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Entities\\Entities.csproj"
+            "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Entities\\Entities.csproj"
             }
           }
         }

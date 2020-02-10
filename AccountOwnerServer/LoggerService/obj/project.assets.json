@@ -752,11 +752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
+      "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
+      "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
       "packagesPath": "C:\\Users\\ravcz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\obj\\",
+      "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ravcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -772,8 +772,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj"
+            "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj"
             }
           }
         }

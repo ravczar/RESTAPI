@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace Repository
 {
@@ -15,24 +16,24 @@ namespace Repository
         {
         }
 
-        public IEnumerable<Owner> GetAllOwners()
+        public async Task<IEnumerable<Owner>> GetAllOwners()
         {
-            return FindAll()
+            return await FindAll()
                 .OrderBy(ow => ow.Name)
-                .ToList();
+                .ToListAsync();
         }
 
-        public Owner GetOwnerById(Guid ownerId)
+        public async Task<Owner> GetOwnerById(Guid ownerId)
         {
-            return FindByCondition(owner => owner.Id.Equals(ownerId))
-                    .FirstOrDefault();
+            return await FindByCondition(owner => owner.Id.Equals(ownerId))
+                    .FirstOrDefaultAsync();
         }
 
-        public Owner GetOwnerWithDetails(Guid ownerId)
+        public async Task<Owner> GetOwnerWithDetails(Guid ownerId)
         {
-            return FindByCondition(owner => owner.Id.Equals(ownerId))
+            return await FindByCondition(owner => owner.Id.Equals(ownerId))
                 .Include(ac => ac.Accounts)
-                .FirstOrDefault();
+                .FirstOrDefaultAsync();
         }
 
         public void CreateOwner(Owner owner)

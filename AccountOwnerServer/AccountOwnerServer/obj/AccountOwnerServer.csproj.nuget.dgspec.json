@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj": {}
+    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj": {
+    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
+        "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
         "projectName": "AccountOwnerServer",
-        "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
+        "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
         "packagesPath": "C:\\Users\\ravcz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\AccountOwnerServer\\obj\\",
+        "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\AccountOwnerServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ravcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\LoggerService.csproj"
+              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\LoggerService.csproj"
               },
-              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\Repository.csproj"
+              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\Repository.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\ravcz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ravcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,8 +107,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Entities\\Entities.csproj"
+              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Entities\\Entities.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Entities\\Entities.csproj": {
+    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ravcz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ravcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,14 +198,14 @@
         }
       }
     },
-    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\LoggerService.csproj": {
+    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
+        "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
         "packagesPath": "C:\\Users\\ravcz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\LoggerService\\obj\\",
+        "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ravcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,8 +221,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj"
+              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -260,14 +260,14 @@
         }
       }
     },
-    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\Repository.csproj": {
+    "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\ravcz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ravcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -283,11 +283,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Contracts\\Contracts.csproj"
+              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Contracts\\Contracts.csproj"
               },
-              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API\\AccountOwnerServer\\Entities\\Entities.csproj"
+              "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ravcz\\Desktop\\API DOTNET\\API Z GIT\\AccountOwnerServer\\Entities\\Entities.csproj"
               }
             }
           }
