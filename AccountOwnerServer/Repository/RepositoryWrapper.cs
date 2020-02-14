@@ -10,6 +10,11 @@ namespace Repository
         private IOwnerRepository _owner;
         private IAccountRepository _account;
 
+        public RepositoryWrapper(RepositoryContext repositoryContext)
+        {
+            _repoContext = repositoryContext;
+        }
+
         public IOwnerRepository Owner
         {
             get
@@ -36,10 +41,6 @@ namespace Repository
             }
         }
 
-        public RepositoryWrapper(RepositoryContext repositoryContext)
-        {
-            _repoContext = repositoryContext;
-        }
 
         public async Task SaveAsync()
         {

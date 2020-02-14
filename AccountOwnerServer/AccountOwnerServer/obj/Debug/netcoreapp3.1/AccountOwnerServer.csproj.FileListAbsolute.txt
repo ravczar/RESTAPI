@@ -246,3 +246,4 @@ C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\AccountOwnerServe
 C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.RazorTargetAssemblyInfo.cache
 C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.csproj.CopyComplete
+C:\Users\ravcz\Desktop\API DOTNET\API Z GIT\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Postman Collection\AccountOwner collection.postman_collection.json

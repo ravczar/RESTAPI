@@ -139,7 +139,7 @@ namespace AccountOwnerServer.Controllers
             }
             catch (Exception ex)
             {
-                _logger.LogError($"Something went wrong inside UpdateAccount action: {ex.Message}");
+                _logger.LogError($"Something went wrong inside UpdateAccount(id, addressForCreationDto) action: {ex.Message}");
                 return StatusCode(500, "Internal server error");
             }
         }

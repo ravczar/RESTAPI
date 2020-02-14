@@ -1,0 +1,350 @@
+{
+	"info": {
+		"_postman_id": "9e181506-1f51-41a0-8638-20e9912a8508",
+		"name": "AccountOwner collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:5000/api/account",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"date\": \"2002-12-24T00:00:00\",\n\t\"accountType\": \"Domestic\",\n\t\"ownerId\": \"08d7ac97-3f76-4bb0-8c42-c63d5f947fb1\"\n}"
+				},
+				"url": {
+					"raw": "localhost:5000/api/account",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"account"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/api/owner",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Mieszko z Bogdańca\",\n\t\"dateOfBirth\": \"1975-12-24T00:00:00\",\n\t\"address\":\"26 Długie Ogrody\" \n}"
+				},
+				"url": {
+					"raw": "localhost:5000/api/owner",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"owner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/api/owner/08d7ac97-3f76-4bb0-8c42-c63d5f947fb1/account",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:5000/api/owner/08d7ac97-3f76-4bb0-8c42-c63d5f947fb1/account",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"owner",
+						"08d7ac97-3f76-4bb0-8c42-c63d5f947fb1",
+						"account"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/api/account/03e91478-5608-4132-a753-d494dafce00b",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:5000/api/account/03e91478-5608-4132-a753-d494dafce00b",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"account",
+						"03e91478-5608-4132-a753-d494dafce00b"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/api/owner/08d7ac97-3f76-4bb0-8c42-c63d5f947fb1",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:5000/api/owner/08d7ac97-3f76-4bb0-8c42-c63d5f947fb1",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"owner",
+						"08d7ac97-3f76-4bb0-8c42-c63d5f947fb1"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/api/account",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:5000/api/account",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"account"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/api/owner",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:5000/api/owner",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"owner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/car",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:5000/car",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"car"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/weatherforecast",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:5000/weatherforecast",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"weatherforecast"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/api/owner/08d7ac9e-6d49-4145-83dc-8777acd2588a",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Mieszko z PRZYMORZA\",\n\t\"dateOfBirth\": \"1975-12-24T00:00:00\",\n    \"address\": \"26 Długie Ogrody\"\n}"
+				},
+				"url": {
+					"raw": "localhost:5000/api/owner/08d7ac9e-6d49-4145-83dc-8777acd2588a",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"owner",
+						"08d7ac9e-6d49-4145-83dc-8777acd2588a"
+					]
+				},
+				"description": "Update Ownera w bazie danych"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/api/account/eccadf79-85fe-402f-893c-32d3f03ed9b1",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"date\": \"2020-12-24T00:00:00\",\n\t\"accountType\": \"DO USUNIECIA\",\n\t\"ownerId\": \"08d7ac97-3f76-4bb0-8c42-c63d5f947fb1\"\n}"
+				},
+				"url": {
+					"raw": "localhost:5000/api/account/eccadf79-85fe-402f-893c-32d3f03ed9b1",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"account",
+						"eccadf79-85fe-402f-893c-32d3f03ed9b1"
+					]
+				},
+				"description": "UPDATE account"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/api/account/eccadf79-85fe-402f-893c-32d3f03ed9b1",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:5000/api/account/eccadf79-85fe-402f-893c-32d3f03ed9b1",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"account",
+						"eccadf79-85fe-402f-893c-32d3f03ed9b1"
+					]
+				},
+				"description": "Kasowanie konta"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/api/owner/08d7aca4-737b-4765-80b0-0c2822c6d308",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:5000/api/owner/08d7aca4-737b-4765-80b0-0c2822c6d308",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"owner",
+						"08d7aca4-737b-4765-80b0-0c2822c6d308"
+					]
+				},
+				"description": "Kasowanie OWNERA"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
